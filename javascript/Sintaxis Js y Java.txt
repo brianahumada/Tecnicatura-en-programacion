@@ -1,0 +1,60 @@
+Sintaxis similares entre java y javaScript
+Operadores Simplificados:
++=
+-=
+*=
+/=
+%=
+**=
+
+Operadores aritmeticos
++
+-
+*
+/ 
+% 
+
+Operadores de asignacion
+=
+
+Operadores de comparacion(Tipo boolean)
+== revisa el valor sin importar el tipo
+=== operador extricto (revisa el valor y el tipo)
+
+Documentar
+// Para una lina de comentario
+/* */ Para multiples lineas de comentario
+
+Secuencia de escape
+\' Mostrar una comilla simple dentro de una cadena en la salida de informacion
+\" Mostrar doble comilla dentro de una cadena en la salida de informacioon
+\\ Barra invertida, diagonal inversa, es para mostrar una black slash
+\n Esto es un salto de linea
+\r retorno
+\t tabulacion
+\b retroceso
+\f salto de pagina
+
+Operador de aumento
+++
+Ejemplo: Let z = ++a // PreIncremento
+Ejemplo: z = a++;//PosIncermento
+
+Operador de decremento
+--
+Ejemplo: Let z = --a // predecremento
+Ejemplo: z = a--;//posDecermento
+
+Operador distinto,Diferentes(devuelve tipo boolean)
+!= comprueba valores sin revisar el tipo
+!== comprueba el valor y tambien el tipo
+
+Operadores Relacionales(tipo boolean)
+<
+>
+<=
+>=
+
+Operadores lógicos
+And -> && doble aspersan
+Or -> 
